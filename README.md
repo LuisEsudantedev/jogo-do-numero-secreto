@@ -91,10 +91,6 @@ Contribuições são sempre bem-vindas! Caso você encontre um problema ou tenha
 
 ## 🏆 Créditos
 
-Desenvolvido com carinho por [Seu Nome]. 🤓
+Desenvolvido com carinho por [Luis-Dev]. 🤓
 
 ---
-
-## 🖼️ Galeria de Imagens e Vídeos
-
-Seções extras podem ser adicionadas para incluir uma galeria de imagens ou vídeos demonstrativos diretamente no README, tornando-o ainda mais visual. Caso precise de orientações específicas sobre como organizar ou criar o conteúdo, posso ajudar!
