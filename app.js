@@ -4,7 +4,7 @@ console.log('Versao em atualização.');
 
 // Cria variáveis utilizadas no jogo.
 let listaDeNumerosSorteados = []; // Lista para armazenar números já sorteados
-let numeroLimite = 10; // Limite máximo do número secreto
+let numeroLimite = 50; // Limite máximo do número secreto
 let numeroSecreto = gerarNumeroAleatorio(); // Número secreto gerado aleatoriamente
 let tentativas = 1; // Contador de tentativas do jogador
 let pontuacao = 0; // Variável para armazenar a pontuação do jogador
